@@ -536,6 +536,7 @@ export default {
   position: fixed;
   bottom: 0;
   width: 100%;
+  height: 20px;
   display: flex;
   opacity: 0;
   transform: translateX(6px);
